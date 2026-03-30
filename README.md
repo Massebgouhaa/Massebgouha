@@ -1,4 +1,4 @@
-[22:14, 30/03/2026] Ma__ssi🥀: <div align="center" width="50">
+ <div align="center" width="50">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
@@ -12,9 +12,9 @@
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-X…
-[22:24, 30/03/2026] Ma__ssi🥀: <div align="center">
+ <div align="center">
 
-<h1>Hi 👋 I'm Massi Med</h1>
+<h1>Hi 👋 I'm Massebgouha Ahmednah </h1>
 
 <h3>🎓 Data Engineering & Statistics Student</h3>
 
