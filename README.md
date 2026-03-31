@@ -1,6 +1,6 @@
-<div align="center">
+[00:51, 31/03/2026] Ma__ssi🥀: <div align="center">
 
-<h1>Hi 👋 I'm Massebgouha Ahmednah</h1>
+<h1>Hi 👋 I'm Massi Med</h1>
 
 <h3>🎓 Data Engineering & Statistics Student</h3>
 
@@ -26,6 +26,36 @@
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor…
+[00:56, 31/03/2026] Ma__ssi🥀: <div align="center">
+
+<h1>Hi 👋 I'm Massi Med</h1>
+
+<h3>🎓 Data Engineering & Statistics Student</h3>
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Student in *Data Engineering & Statistics*
+- 🐍 I work with *Python*
+- 🌐 I develop web applications using *PHP, HTML, CSS*
+- 💻 I have programming experience with *C++*
+- 📊 I analyze data using *NumPy & Pandas*
+- 🐧 I enjoy working with *Linux*
+- 📚 Always learning new technologies
+
+---
+
+## 🛠️ Skills
+
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 
@@ -37,7 +67,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
-### 🗄️ Databases & Tools
+### 🗄️ Data & Tools
 ![SQL](https://img.shields.io/badge/SQL-07405E?style=flat&logo=sqlite&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -73,4 +103,4 @@
 
 ---
 
-⭐ *Fun Fact:* I love learning programming and solving problems!
+⭐ *Fun Fact:* I love learning programming, data analysis, and solving problems!
