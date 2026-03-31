@@ -1,35 +1,6 @@
-[00:51, 31/03/2026] Ma__ssi🥀: <div align="center">
+<div align="center">
 
-<h1>Hi 👋 I'm Massi Med</h1>
-
-<h3>🎓 Data Engineering & Statistics Student</h3>
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 Student in *Data Engineering & Statistics*
-- 🐍 I work with *Python*
-- 🌐 I develop web applications using *PHP, HTML, CSS*
-- 📊 I analyze data using *NumPy & Pandas*
-- 🐧 I enjoy working with *Linux*
-- 📚 Always learning new technologies
-
----
-
-## 🛠️ Skills
-
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor…
-[00:56, 31/03/2026] Ma__ssi🥀: <div align="center">
-
-<h1>Hi 👋 I'm Massi Med</h1>
+<h1>Hi 👋 I'm Massebgouha Ahmednah</h1>
 
 <h3>🎓 Data Engineering & Statistics Student</h3>
 
@@ -42,10 +13,9 @@
 ## 👨‍💻 About Me
 
 - 🎓 Student in *Data Engineering & Statistics*
-- 🐍 I work with *Python*
-- 🌐 I develop web applications using *PHP, HTML, CSS*
-- 💻 I have programming experience with *C++*
-- 📊 I analyze data using *NumPy & Pandas*
+- 🐍 Currently learning *Python*
+- 🌐 Interested in *Web Development*
+- 📊 Passionate about *Data Analysis*
 - 🐧 I enjoy working with *Linux*
 - 📚 Always learning new technologies
 
@@ -72,14 +42,13 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
-
 ---
 
 ## 📚 Currently Learning
 
+- Python 🐍  
 - Data Engineering 📊  
-- Machine Learning 🤖  
-- Advanced Statistics 📈  
+- Statistics & Probability 📈  
 - Web Development 🌐  
 
 ---
@@ -98,9 +67,9 @@
 
 ## 📫 Contact Me
 
-- 📧 Email: your-email@example.com  
-- 💼 GitHub: https://github.com/YOUR_USERNAME  
+- 📧 Email: 25185@supnum.mr 
+- 💼 GitHub: https://github.com/Massebgouhaa  
 
 ---
 
-⭐ *Fun Fact:* I love learning programming, data analysis, and solving problems!
+⭐ *Fun Fact:* I love learning new technologies and solving problems!
